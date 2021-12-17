@@ -1,0 +1,7 @@
+{
+    "ROOT": "/simple_react_app",
+    "MOUNTAIN": "/simple_react_app/mountain",
+    "BEACHES": "/simple_react_app/beaches",
+    "BIRDS": "/simple_react_app/birds",
+    "FOOD": "/simple_react_app/food"
+}
