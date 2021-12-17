@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/simple_react_app/static/js/main.850165f0.js",
+    "static/media/mountain_image_1.jpg": "/simple_react_app/static/media/mountain_image_1.e87d8544d2e12087dd36.jpg",
+    "static/media/food_image_3.jpg": "/simple_react_app/static/media/food_image_3.712b5634d2a775caa3bd.jpg",
+    "static/media/food_image_4.jpg": "/simple_react_app/static/media/food_image_4.45f04f37134fe16afc54.jpg",
+    "static/media/mountain_image_8.jpg": "/simple_react_app/static/media/mountain_image_8.4fab5527c433dbf1f7a0.jpg",
+    "static/media/beaches_image_4.jpg": "/simple_react_app/static/media/beaches_image_4.7f0e9df3ba44b7d5887d.jpg",
+    "static/media/food_image_1.jpg": "/simple_react_app/static/media/food_image_1.1b6a3515c65f66c379db.jpg",
+    "static/media/mountain_image_5.jpg": "/simple_react_app/static/media/mountain_image_5.01b83d83877841fe0a1d.jpg",
+    "static/media/mountain_image_6.jpg": "/simple_react_app/static/media/mountain_image_6.6960851ea1c18a970008.jpg",
+    "static/media/beaches_image_1.jpg": "/simple_react_app/static/media/beaches_image_1.7e7cc2db41de22eae469.jpg",
+    "static/media/mountain_image_3.jpg": "/simple_react_app/static/media/mountain_image_3.3bcc3919342334ae1d28.jpg",
+    "static/media/birds_image_2.jpg": "/simple_react_app/static/media/birds_image_2.f195c84cb5eaa1872b58.jpg",
+    "static/media/food_image_2.jpg": "/simple_react_app/static/media/food_image_2.34dcb9c15b7a6b84066c.jpg",
+    "static/media/food_image_8.jpg": "/simple_react_app/static/media/food_image_8.ca692e3759e4d287fcce.jpg",
+    "static/media/mountain_image_7.jpg": "/simple_react_app/static/media/mountain_image_7.c24a955dd97bb84fd2a8.jpg",
+    "static/media/beaches_image_3.jpg": "/simple_react_app/static/media/beaches_image_3.3baacf3b312980fe1906.jpg",
+    "static/media/birds_image_7.jpg": "/simple_react_app/static/media/birds_image_7.05e802b2eb8e0884ab89.jpg",
+    "static/media/beaches_image_2.jpg": "/simple_react_app/static/media/beaches_image_2.8b3ee42e93fc27596ff2.jpg",
+    "static/media/birds_image_3.jpeg": "/simple_react_app/static/media/birds_image_3.3ce946a2f6f55421eb88.jpeg",
+    "static/media/mountain_image_2.jpg": "/simple_react_app/static/media/mountain_image_2.6d0d394563e38493fdb2.jpg",
+    "static/media/mountain_image_4.jpg": "/simple_react_app/static/media/mountain_image_4.7b7e0730166ef5b97377.jpg",
+    "static/media/birds_image_6.jpg": "/simple_react_app/static/media/birds_image_6.b82dd1f97f63c4e5bbdd.jpg",
+    "static/media/beaches_image_5.jpg": "/simple_react_app/static/media/beaches_image_5.3f1256f3ef206b2355a0.jpg",
+    "static/media/beaches_image_8.jpg": "/simple_react_app/static/media/beaches_image_8.ebb982d7eb4c816a21cc.jpg",
+    "static/media/beaches_image_6.jpg": "/simple_react_app/static/media/beaches_image_6.5de23d8a5c4d6cd72b2f.jpg",
+    "static/media/food_image_6.jpg": "/simple_react_app/static/media/food_image_6.7e723695106d4edb3a24.jpg",
+    "static/media/birds_image_5.jpg": "/simple_react_app/static/media/birds_image_5.18e224de239d179ae36b.jpg",
+    "static/media/food_image_5.jpeg": "/simple_react_app/static/media/food_image_5.2b15fba4a506f8bc665e.jpeg",
+    "static/media/food_image_7.jpeg": "/simple_react_app/static/media/food_image_7.974d551503f4db180e31.jpeg",
+    "index.html": "/simple_react_app/index.html",
+    "main.850165f0.js.map": "/simple_react_app/static/js/main.850165f0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.850165f0.js"
+  ]
+}
